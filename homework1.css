@@ -1,0 +1,26 @@
+.smaller-image {
+  height: 20px;
+  width: 40px;
+}
+
+.black-box {
+background-color: gray;
+}
+
+.sneaker-size {
+  height: 300px;
+  width: 500px;
+}
+
+.white-text {
+  color: white;
+}
+
+.underline-text {
+  text-decoration: underline;
+}
+
+.rec-shoe-size {
+  height: 200px;
+  width: 350px;
+}
