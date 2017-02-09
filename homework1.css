@@ -1,19 +1,65 @@
+body {
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.centered-shoes {
+  padding-left: 400px;
+}
+
+h3 {
+  color: white;
+  font-size: 30px;
+  height: 50px;
+}
+
+.price {
+  color: #FFFFCC;
+  font-size: 30px;
+}
+
+.buy-now {
+  padding: 20px;
+  background-color: white;
+  color: #F74E10;
+}
+
+h1 {
+  color: white;
+}
+
+.padding-left {
+  padding-left: 375px;
+  display: inline-block;;
+  padding-right: 400px;
+}
+
+a {
+  padding: 5px;
+  color: #F74E10;
+  text-decoration: none;
+  margin-bottom: 5px;
+}
+
 .smaller-image {
-  height: 20px;
-  width: 40px;
+  height: 25px;
+  width: 50px;
+  display: inline;
+  padding: 10px;
+}
+
+.nav-bar {
+  display: inline-block;
+  font-size: 17px;
 }
 
 .black-box {
-background-color: gray;
+background-color: #F74E10;
 }
 
 .sneaker-size {
   height: 300px;
-  width: 500px;
-}
-
-.white-text {
-  color: white;
+  width: 600px;
+  padding-top: 20px;
 }
 
 .underline-text {
@@ -23,4 +69,31 @@ background-color: gray;
 .rec-shoe-size {
   height: 200px;
   width: 350px;
+}
+
+.back-to-shoes {
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+  padding-left: 380px;
+  padding-top: 50px;
+}
+
+.shopping-cart {
+height: 15px;
+width: 18px;
+}
+
+.terms-conditions {
+  display: inline-block;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.light-box {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #FFE5CC;
 }
